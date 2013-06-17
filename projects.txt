@@ -1,1 +1,3 @@
 https://github.com/adrienthebo/r10k.git
+https://github.com/mizzy/serverspec.git
+https://github.com/mizzy/puppet-lxc-test-box.git
