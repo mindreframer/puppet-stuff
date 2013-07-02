@@ -13,7 +13,7 @@
 
        33 commits, last change: 2013-04-14 06:46:36, 3 stars, 1 forks
 
-    mizzy/serverspec:
-      This repository has been moved to https://github.com/serverspec/serverspec
-       1 commits, last change: 2013-06-29 14:56:09, 0 stars, 0 forks
+    serverspec/serverspec:
+      RSpec tests for your servers configured by Puppet, Chef or anything else even by hand
+       695 commits, last change: 2013-07-02 07:20:35, 259 stars, 57 forks
 <!-- PROJECTS_LIST_END -->
