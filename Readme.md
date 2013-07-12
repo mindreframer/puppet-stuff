@@ -5,6 +5,10 @@
       Smarter Puppet deployment, powered by killer robots
        373 commits, last change: 2013-06-13 22:26:03, 67 stars, 11 forks
 
+    bakins/omnibus-nginx:
+      Omnibus packaging for Openresty/nginx
+       24 commits, last change: 2013-06-08 05:08:24, 3 stars, 0 forks
+
     BerlinVagrant/vagrant-dns:
       A plugin to manage DNS records for vagrant environments
        65 commits, last change: 2013-06-03 05:37:03, 137 stars, 17 forks
