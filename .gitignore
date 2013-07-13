@@ -1,0 +1,13 @@
+*.gem
+.bundle
+Gemfile.lock
+pkg/*
+cache/
+pkg/
+tmp-build/
+tmp-dest/
+.buildpath
+.project
+.vagrant
+Vagrantfile
+/vendor
