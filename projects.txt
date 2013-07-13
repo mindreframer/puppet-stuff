@@ -4,3 +4,4 @@ https://github.com/BerlinVagrant/vagrant-dns.git
 https://github.com/bernd/fpm-cookery.git
 https://github.com/mizzy/puppet-lxc-test-box.git
 https://github.com/serverspec/serverspec.git
+https://github.com/jordansissel/fpm.git
