@@ -13,6 +13,10 @@
       A plugin to manage DNS records for vagrant environments
        65 commits, last change: 2013-06-03 05:37:03, 137 stars, 17 forks
 
+    bernd/fpm-cookery:
+      A tool for building software packages with fpm.
+       282 commits, last change: 2013-07-03 06:37:24, 149 stars, 23 forks
+
     mizzy/puppet-lxc-test-box:
 
        33 commits, last change: 2013-04-14 06:46:36, 3 stars, 1 forks
