@@ -17,6 +17,10 @@
       A tool for building software packages with fpm.
        282 commits, last change: 2013-07-03 06:37:24, 149 stars, 23 forks
 
+    jordansissel/fpm:
+      Effing package managers! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
+       1000+ commits, last change: 2013-07-12 09:55:05, 1,914 stars, 240 forks
+
     mizzy/puppet-lxc-test-box:
 
        33 commits, last change: 2013-04-14 06:46:36, 3 stars, 1 forks
