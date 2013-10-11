@@ -9,7 +9,7 @@
 
     bakins/omnibus-nginx:
       Omnibus packaging for Openresty/nginx
-       24 commits, last change: 2013-06-08 05:08:24, 3 stars, 0 forks
+       34 commits, last change: 2013-08-07 04:08:43, 23 stars, 4 forks
 
     BerlinVagrant/vagrant-dns:
       A plugin to manage DNS records for vagrant environments
